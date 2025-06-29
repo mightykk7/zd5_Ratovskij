@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0BD1F3-4CC4-47B8-92E9-38500381E7A4}|zd4_ratovskij.Android\\zd4_ratovskij.Android.csproj|c:\\users\\drago\\desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0BD1F3-4CC4-47B8-92E9-38500381E7A4}|zd4_ratovskij.Android\\zd4_ratovskij.Android.csproj|solutionrelative:zd4_ratovskij.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0BD1F3-4CC4-47B8-92E9-38500381E7A4}|zd4_ratovskij.Android\\zd4_ratovskij.Android.csproj|c:\\users\\drago\\desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A0BD1F3-4CC4-47B8-92E9-38500381E7A4}|zd4_ratovskij.Android\\zd4_ratovskij.Android.csproj|solutionrelative:zd4_ratovskij.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB318C2F-0838-47DA-AA4F-A060E8055CE6}|zd4_ratovskij\\zd4_ratovskij.csproj|c:\\users\\drago\\desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij\\creditcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB318C2F-0838-47DA-AA4F-A060E8055CE6}|zd4_ratovskij\\zd4_ratovskij.csproj|solutionrelative:zd4_ratovskij\\creditcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.Android\\Assets\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "zd4_ratovskij.Android\\Assets\\AboutAssets.txt",
+              "ToolTip": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.Android\\Assets\\AboutAssets.txt",
+              "RelativeToolTip": "zd4_ratovskij.Android\\Assets\\AboutAssets.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-29T20:42:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "zd4_ratovskij.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij.Android\\MainActivity.cs",
+              "RelativeToolTip": "zd4_ratovskij.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:41:02.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij\\CreditCalculator.cs",
+              "RelativeDocumentMoniker": "zd4_ratovskij\\CreditCalculator.cs",
+              "ToolTip": "C:\\Users\\drago\\Desktop\\zd4_ratovskij\\zd4_ratovskij\\zd4_ratovskij\\CreditCalculator.cs",
+              "RelativeToolTip": "zd4_ratovskij\\CreditCalculator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:55:17.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
