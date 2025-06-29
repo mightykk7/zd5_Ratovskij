@@ -78,9 +78,9 @@ namespace zd4_ratovskij
                     double totalSum = CreditCalculator.CalculateDifferentiatedTotalSum(creditSum, term, percent);
                     double overpayment = CreditCalculator.CalculateDifferentiatedOverpayment(creditSum, totalSum);
 
-                    MonthlyPaymentLabel.Text = $"Платежи: от {lastPayment} до {firstPayment} руб.";
-                    TotalSumLabel.Text = $"Общая сумма: {totalSum} руб.";
-                    OverpaymentLabel.Text = $"Переплата: {overpayment} руб.";
+                    MonthlyPaymentLabel.Text = $"от {lastPayment} до {firstPayment} руб.";
+                    TotalSumLabel.Text = totalSum.ToString();
+                    OverpaymentLabel.Text = overpayment.ToString();
                 }
             }
             catch (Exception ex)

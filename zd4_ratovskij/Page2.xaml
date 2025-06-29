@@ -22,7 +22,7 @@
         <StackLayout Padding="20" Orientation="Vertical" HorizontalOptions="End">
 
             <Label Text="Текущая дата:" FontAttributes="Bold" TextDecorations="Underline" />
-            <DatePicker x:Name="CurrencyDatePicker" DateSelected="CurrencyDatePicker_DateSelected" IsEnabled="False" FontAttributes="Bold"/>
+            <DatePicker x:Name="CurrencyDatePicker" DateSelected="CurrencyDatePicker_DateSelected" IsEnabled="True" FontAttributes="Bold"/>
             <Label x:Name="DateLabel" TextColor="Black"/>
 
         </StackLayout>

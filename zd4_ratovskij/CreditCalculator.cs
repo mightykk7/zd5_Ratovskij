@@ -4,7 +4,7 @@ using System.Text;
 
 namespace zd4_ratovskij
 {
-    class CreditCalculator
+    public static class CreditCalculator
     {
         //вычисление ежемесячного платежа для аннуитетного платежа
         public static double CalculateAnnuityMonthlyPayment(double creditSum, int term, double percent)

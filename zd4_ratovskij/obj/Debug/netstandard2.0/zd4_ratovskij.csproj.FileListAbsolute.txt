@@ -17,3 +17,4 @@ C:\Users\drago\Desktop\zd4_ratovskij\zd4_ratovskij\zd4_ratovskij\obj\Debug\netst
 C:\Users\drago\Desktop\zd4_ratovskij\zd4_ratovskij\zd4_ratovskij\obj\Debug\netstandard2.0\refint\zd4_ratovskij.dll
 C:\Users\drago\Desktop\zd4_ratovskij\zd4_ratovskij\zd4_ratovskij\obj\Debug\netstandard2.0\zd4_ratovskij.pdb
 C:\Users\drago\Desktop\zd4_ratovskij\zd4_ratovskij\zd4_ratovskij\obj\Debug\netstandard2.0\ref\zd4_ratovskij.dll
+C:\Users\drago\Desktop\zd4_ratovskij\zd4_ratovskij\zd4_ratovskij\obj\Debug\netstandard2.0\zd4_ratovskij.sourcelink.json

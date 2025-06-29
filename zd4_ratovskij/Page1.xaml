@@ -19,7 +19,7 @@
 
             <StackLayout Orientation="Horizontal">
                 <Label Text="Вид платежа:" />
-                <Picker x:Name="PaymentTypePicker" WidthRequest="150">
+                <Picker x:Name="PaymentTypePicker" WidthRequest="200">
                     <Picker.Items>
                         <x:String>Аннуитетный</x:String>
                         <x:String>Дифференцированный</x:String>
